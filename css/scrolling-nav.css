@@ -1,0 +1,30 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 90px;
+}
+
+section {
+  padding: 150px 0;
+}
+/*! My CSS  below*/
+
+  
+body {
+  background: url('../img/cubes.png');
+  background-size: cover;
+  
+  display: flex
+  min-height: 100vh
+  flex-direction: column
+  
+main {
+  flex: 1 1 auto
+  }
+  
+ font {
+ font-family: 'Bitter', serif;
+ }
