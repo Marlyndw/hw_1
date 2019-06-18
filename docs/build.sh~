@@ -1,0 +1,6 @@
+cat ../template/top.html ../content/middle.html ../template/bottom.html > index.html
+cat ../template/contact_top.html ../content/contact_middle.html ../templates/contact_bottom.html > contact.html
+cat ../templates/resume_top.html ../content/resume_middle.html ../templates/resume_bottom.html > resume.html
+cat ../templates/bio_top.html ../content/bio_middle.html ../templates/bio_bottom.html > bio.html
+
+
